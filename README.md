@@ -1,3 +1,10 @@
+#README
+
+A backup version of Parallax.js taken from [wagerfield](https://github.com/wagerfield/parallax) 
+
+***
+
+
 # Parallax.js
 
 Parallax Engine that reacts to the orientation of a smart device. Where no gyroscope or motion detection hardware is available, the position of the cursor is used instead.
